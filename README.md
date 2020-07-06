@@ -1,4 +1,4 @@
-# reddit-account-transferer
+# Reddit Account Transferer
 Transfers your old Reddit account's subscribed subreddits and saved posts.
 
 ## Description
